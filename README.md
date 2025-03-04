@@ -1,5 +1,5 @@
 # TCC-CI-2025-Gemini-Pro-Experimental
-Repositório contendo arquivo registrando as interações entre pesquisador e modelo Gemini 2.0 Pro Experimental (Google) conforme descrito em seu tabalho de conclusão de curso (2025) entitulado de "O potencial dos LLM (Large Language Models) na Indexação: uma perspectiva da Ciência da Informação".
+Repositório contendo arquivo registrando as interações entre pesquisador e modelo Gemini 2.0 Pro Experimental (Google) conforme descrito em seu tabalho de conclusão de curso (2025) entitulado de "O potencial dos LLM (Large Language Models) na Indexação Automática: uma perspectiva da Ciência da Informação".
 
 Todos os arquivos deste repositório estão sob proteção de licença CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
